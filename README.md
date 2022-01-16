@@ -1,6 +1,6 @@
 # Libft
 ## Usage
-make all
+run **make all**
 
 ## Credit
 Student project for School 42.
